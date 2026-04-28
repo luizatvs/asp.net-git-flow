@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morph\\source\\repos\\Atividade\\Atividade\\Atividade.csproj": {}
+    "C:\\Users\\morph\\Documents\\GitHub\\asp.net-git-flow\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morph\\source\\repos\\Atividade\\Atividade\\Atividade.csproj": {
+    "C:\\Users\\morph\\Documents\\GitHub\\asp.net-git-flow\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morph\\source\\repos\\Atividade\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\Users\\morph\\Documents\\GitHub\\asp.net-git-flow\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\morph\\source\\repos\\Atividade\\Atividade\\Atividade.csproj",
+        "projectPath": "C:\\Users\\morph\\Documents\\GitHub\\asp.net-git-flow\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\morph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morph\\source\\repos\\Atividade\\Atividade\\obj\\",
+        "outputPath": "C:\\Users\\morph\\Documents\\GitHub\\asp.net-git-flow\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
